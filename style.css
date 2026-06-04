@@ -113,7 +113,7 @@ h4 {
   position: relative;
   /* background-image is set inline or dynamically if we use generate_image, 
      but for now a dark linear gradient placeholder */
-  background: linear-gradient(rgba(10, 10, 12, 0.4), rgba(10, 10, 12, 1)), url('hero_bg.png') center/cover no-repeat;
+  background: linear-gradient(rgba(10, 10, 12, 0.4), rgba(10, 10, 12, 1)), url('../hero_bg.png') center/cover no-repeat;
   text-align: center;
   padding: 10vh 20px 0 20px;
   overflow: hidden;
